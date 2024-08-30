@@ -3,7 +3,7 @@ import left_chevron from "./Left.svg";
 import right_chevron from "./Right.svg";
 import dog from "./Dog.mp4";
 import fall from "./Fall.mp4";
-import Insta from "./insta.svg";
+import Insta from "./Insta.svg";
 import Facebook from "./Facebook.svg";
 import x from "./x.svg";
 import file1 from "./LANDING PAGE/File 00001.mp4";
